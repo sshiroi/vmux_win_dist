@@ -1,0 +1,11 @@
+bluray_include/
+bluray_lib/
+ffms_include/
+ffms_lib/
+mpv/
+vlc/
+fonts/
+vmux/
+*.iso
+*.zip
+*.exe
